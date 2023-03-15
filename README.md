@@ -9,7 +9,7 @@
 [![Blog](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/_?culture=pt-br&country=br#/school/teams-grid/General?ctx=teamsGrid)
 [![Blog](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199053838371/)
 
-![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenopais&show_icons=true&theme=radical)
+![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenopais&theme=blue-green)
 
 
 ## Tecnologias que utilizo
@@ -23,3 +23,4 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="center" alt="Microsoftoffice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+</div><br/>
