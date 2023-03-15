@@ -1,5 +1,7 @@
 ### Olá!  Eu Sou o Breno Pais 👦🏻
 #
+👉 Sou um estudante universitário de Gestão da Tecnologia da Informação, atualmente estou no 4º período tendo o objetivo de me tornar um profissional completo na área, comprometido em evoluir constantemente aceitando qualquer tipo de mudança adquirindo mais conhecimento. Sou uma pessoa calma e dedicada, empenhado em alcançar meus objetivos profissionais. 
+#
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenopais/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenopaiss/)
@@ -7,8 +9,8 @@
 [![Blog](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/_?culture=pt-br&country=br#/school/teams-grid/General?ctx=teamsGrid)
 [![Blog](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199053838371/)
 
-
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenopais&show_icons=true&theme=radical)
+
 
 ## Tecnologias que utilizo
 
