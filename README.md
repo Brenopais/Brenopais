@@ -9,10 +9,11 @@
   <a href="https://api.whatsapp.com/send/?phone=557998061518&text&type=phone_number&app_absent=0"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <img width="47%" alt="Breno GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Brenopais&theme=dark">
-  <img width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais&layout=compact">
-</div>
+  <img width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais&layout=compact&theme=dark">
+  </div>
+
 
 <p><h2>Tecnologias que utilizo:</h2></p>
 
