@@ -10,6 +10,7 @@
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenopais&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais&hide_progress=true)](https://github.com/Brenopais/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais)](https://github.com/Brenopais/github-readme-stats)
 
 ## Tecnologias que utilizo
 <Div style="Display: inline_block"> <br/>
