@@ -1,4 +1,4 @@
-### Olá!  Eu Sou o Breno Pais 👦🏻
+<h2 align="Center"> Olá!  Eu Sou o Breno Pais 👦🏻 </h2>
 
 👉 Sou um estudante universitário de Gestão da Tecnologia da Informação, atualmente estou no 4º período tendo o objetivo de me tornar um profissional completo na área, comprometido em evoluir constantemente aceitando qualquer tipo de mudança adquirindo mais conhecimento. Sou uma pessoa calma e dedicada, empenhado em alcançar meus objetivos profissionais. 
 
@@ -7,17 +7,17 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenopaiss/)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=557998061518&text&type=phone_number&app_absent=0)
 
-![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenopais&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais)](https://github.com/Brenopais/github-readme-stats)
 
-## Tecnologias que utilizo
-<Div style="Display: inline_block"> <br/>
-<img align="center" alt="Microsoftoffice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img align= "left" width="47%" alt="![Breno GitHub stats]" src="https://github-readme-stats.vercel.app/api?username=Brenopais&theme=dark">
+<img align= "left" width="47%" alt= "[![Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais&layout=compact)">
+
+
+<Div style="Display: inline_block"> 
+<img align= "center"alt="Microsoftoffice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="center" alt="Sql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div><br/>
+<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></div>
