@@ -8,9 +8,9 @@
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=557998061518&text&type=phone_number&app_absent=0)
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenopais&theme=blue-green)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais&hide_progress=true)](https://github.com/Brenopais/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais)](https://github.com/Brenopais/github-readme-stats)
+
+
 
 
 ## Tecnologias que utilizo
