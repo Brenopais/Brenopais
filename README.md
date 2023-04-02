@@ -1,7 +1,7 @@
 ### Olá!  Eu Sou o Breno Pais 👦🏻
-#
+
 👉 Sou um estudante universitário de Gestão da Tecnologia da Informação, atualmente estou no 4º período tendo o objetivo de me tornar um profissional completo na área, comprometido em evoluir constantemente aceitando qualquer tipo de mudança adquirindo mais conhecimento. Sou uma pessoa calma e dedicada, empenhado em alcançar meus objetivos profissionais. 
-#
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenopais/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenopaiss/)
