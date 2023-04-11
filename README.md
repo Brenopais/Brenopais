@@ -13,8 +13,6 @@
   <img width="47%" alt="Breno GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Brenopais&theme=dark">
   <img width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais&layout=compact&theme=dark">
   </div>
-
-
 <p><h2>Tecnologias que utilizo:</h2></p>
 
 <div style="display: flex; justify-content: center;">
