@@ -1,6 +1,7 @@
 <h2 align="center"> Olá! Eu Sou o Breno Pais 👦🏻 </h2>
 
-<p>Sou um estudante universitário de Gestão da Tecnologia da Informação, atualmente estou no 4º período tendo o objetivo de me tornar um profissional completo na área, comprometido em evoluir constantemente aceitando qualquer tipo de mudança adquirindo mais conhecimento. Sou uma pessoa calma e dedicada, empenhado em alcançar meus objetivos profissionais.</p>
+<p>Sou estudante universitário de Gestão da Tecnologia da Informação em busca do primeiro emprego na área de TI. Meu objetivo é me tornar um profissional completo, evoluindo constantemente e aberto a mudanças para adquirir mais conhecimento. Sou dedicado e calmo, e estou motivado a alcançar meus objetivos profissionais. Se você procura um profissional comprometido, entre em contato comigo</p> 
+  
 <div>
   
 <a href="https://www.linkedin.com/in/brenopais/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -16,7 +17,6 @@
 
 
 <p><h2>Tecnologias que utilizo:</h2></p>
-
 <div style="display: flex; justify-content: center;">
   <img alt="Microsoftoffice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
   <img alt="Html5"           src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
