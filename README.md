@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=header"/>
+
 
 <h1 align="center"> Olá! Sou Breno Pais, Desenvolvedor Frontend 👦🏻</h1>
 
@@ -12,7 +13,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brenopais&theme=highcontrast"                             alt="Brenopais"/>
 </div>
 
-<H2>🌐SOCIAIS:</H2> 
+## 🌐Redes Sociais: 
 <div>
 <a href="https://www.linkedin.com/in/brenopais/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -21,43 +22,40 @@
 <a href="https://discord.com/users/709143466768072774"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
-
-## ⚙️ Tecnologias
-
-### 🔩 Linguagens de Programação, Marcação e Estilização
-
-Linguagens de Programação, Marcação e Estilização que já utilizei para o desenvolvimento.
+## 🔩 Linguagens de Programação, Marcação e Estilização que utilizo para o desenvolvimento.
   <div>
-  <img align="center" height="40" width="40" alt="html-icon"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="40" alt="css-icon"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="40" alt="js-icon"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="40" width="40" alt="bootstrap"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" height="40" width="40" alt="wordpress"    src="https://juandev.com.br/img-linguagens/wordpress.png">
-  
-  <img align="center" height="40" width="40" alt="git"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img  height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  height="40" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  height="40" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="40" width="40" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img  height="40" width="40" alt="wordpress" src="https://juandev.com.br/img-linguagens/wordpress.png">
+  <img  height="40" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </div>
   
-  ### 🛠️ Ferramentas e Plataformas de Desenvolvimento
-
-Ferramentas e Plataformas de Desenvolvimento que já utilizei para o desenvolvimento.
+  ## 🛠️ Ferramentas e Plataformas de Desenvolvimento
 <div>
-<img align="center" height="40" width="40" alt="github"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" height="40" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  
-<img align="center" height="40" width="40" alt="Figma"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-<img align="center" height="40" width="40" alt="canva"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img  height="40" width="40" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img height="40" width="40" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img height="40" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"> 
+<img height="40" width="40" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img height="40" width="40" alt="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 </div>
+<br>
 
-🗃️ Sistemas de Gerenciamento de Banco de Dados e Servidores
+## 🗃️ Sistemas de Gerenciamento de Banco de Dados e Servidores  que utilizo para o desenvolvimento.
 
-Sistemas de Gerenciamento de Banco de Dados e Servidores que já utilizei para o desenvolvimento.
 <div>
   <img align="center" height="40" width="40" alt="sql-Server"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
+<br>
 
-📄 Linguagens de Documentação
+## 📄 Linguagem que Utilizei para fazer a documetação
+  <div>
+    <img height="40" width="40" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
+  </div>
+ <br>
+ 
+   <p align="center">⚡🧑🏻‍💻 Breno Pais  - Estudante, Desenvolvedor e Apaixonado por Tecnologia<p>
 
-Linguagens de Documentação que já utilizei para o desenvolvimento.
-
-<img src="img/markdown-original.svg" width="50"/> &nbsp; <img src="img/latex-original.svg" width="50"/>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=footer"/>
