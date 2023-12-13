@@ -3,7 +3,7 @@
 
 <h1 align="center"> Olá! Sou Breno Pais, Desenvolvedor Frontend 👦🏻</h1>
 
-**Sou estudante universitário de Gestão da Tecnologia da Informação Meu objetivo é me tornar um profissional completo, evoluindo constantemente e aberto a mudanças para adquirir mais conhecimento. Sou dedicado e calmo, e estou motivado a alcançar meus objetivos profissionais.**
+**Como estudante universitário de Gestão da Tecnologia da Informação, meu objetivo é me tornar um profissional altamente qualificado, sempre buscando evolução constante e sendo receptivo a mudanças para ampliar meu conhecimento. Demonstro dedicação e tranquilidade em meu percurso para atingir com sucesso meus objetivos profissionais.**
   
 
 
