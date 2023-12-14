@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
 
-<h1 align="center"> Olá! Sou Breno Pais, Desenvolvedor Frontend 👦🏻</h1>
+<h1 align="center"> Olá! Sou Breno Pais, Desenvolvedor Web 👦🏻</h1>
 
 **Como estudante universitário de Gestão da Tecnologia da Informação, meu objetivo é me tornar um profissional altamente qualificado, sempre buscando evolução constante e sendo receptivo a mudanças para ampliar meu conhecimento. Demonstro dedicação e tranquilidade em meu percurso para atingir com sucesso meus objetivos profissionais.**
   
