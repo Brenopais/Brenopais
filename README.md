@@ -57,4 +57,4 @@
    <p align="center">⚡🧑🏻‍💻 Breno Pais  - Estudante, Desenvolvedor e Apaixonado por Tecnologia<p>
 
 <br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1A1B26&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1A1B26&height=120&section=header"/>
