@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1A1B26&height=120&section=header"/>
 
 
 <h1 align="center"> Olá! Sou Breno Pais, Desenvolvedor Web 👦🏻</h1>
@@ -8,9 +8,9 @@
 
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Brenopais&show_icons=true&theme=highcontrast" alt="Brenopais GitHub stats"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais&layout=compact&theme=highcontrast" alt="Brenopais Top Langs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brenopais&theme=highcontrast" alt="Brenopais"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Brenopais&show_icons=true&theme=tokyonight" alt="Brenopais GitHub stats"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais&layout=compact&theme=tokyonight" alt="Brenopais Top Langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brenopais&theme=tokyonight" alt="Brenopais"/>
 </div>
 
 ## 🌐Redes Sociais: 
@@ -57,4 +57,4 @@
    <p align="center">⚡🧑🏻‍💻 Breno Pais  - Estudante, Desenvolvedor e Apaixonado por Tecnologia<p>
 
 <br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1A1B26&height=120&section=footer"/>
