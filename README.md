@@ -3,8 +3,9 @@
 
 <h1 align="center"> Olá! Sou Breno Pais, Desenvolvedor Web 👦🏻</h1>
 
+
 **Como estudante universitário de Gestão da Tecnologia da Informação, atualmente no último período da faculdade, meu objetivo é me tornar um profissional altamente qualificado, sempre buscando a constante evolução em busca do meu primeiro emprego na área como desenvolvedor.**
-  
+
 <br>
 
 <div align="center">
@@ -14,9 +15,6 @@
 </div>
 
 <br>
-
-## 🌐Redes Sociais: 
-
 
 <div>
   <a href="https://www.linkedin.com/in/brenopais/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -40,10 +38,28 @@
 </div>
   
 <br>
-
-
-<p align="center">⚡🧑🏻‍💻 Breno Pais - Estudante, Desenvolvedor e Apaixonado por Tecnologia<p>
-
+  
+  ## 🛠️ Ferramentas e Plataformas de Desenvolvimento
+<div>
+<img  height="40" width="40" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img height="40" width="40" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img height="40" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"> 
+<img height="40" width="40" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img height="40" width="40" alt="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+</div>
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1A1B26&height=120&section=header"/>
+
+
+## 📄 Linguagem que Utilizei para fazer a documetação
+  <div>
+    <img height="40" width="40" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
+  </div>
+ 
+ <br>
+ 
+
+
+   <p align="center">⚡🧑🏻‍💻 Breno Pais  - Estudante, Desenvolvedor e Apaixonado por Tecnologia<p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B66AC&height=120&section=footer"/>
