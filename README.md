@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C8C8C8&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F7F5F5&height=120&section=header"/>
 
 
 <h1 align="center"> Olá! Sou Breno Pais, Desenvolvedor Web 👦🏻</h1>
@@ -62,4 +62,4 @@
 
    <p align="center">⚡🧑🏻‍💻 Breno Pais  - Estudante, Desenvolvedor e Apaixonado por Tecnologia<p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C8C8C8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F7F5F5&height=120&section=footer"/>
