@@ -9,9 +9,9 @@
 <br>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Brenopais&show_icons=true&theme=tokyonight" alt="Brenopais GitHub stats"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais&layout=compact&theme=tokyonight" alt="Brenopais Top Langs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brenopais&theme=tokyonight" alt="Brenopais"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Brenopais&show_icons=true&theme=graywhite" alt="Brenopais GitHub stats"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais&layout=compact&theme=graywhite" alt="Brenopais Top Langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brenopais&theme=graywhite" alt="Brenopais"/>
 </div>
 
 <br>
