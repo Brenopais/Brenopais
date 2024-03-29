@@ -4,7 +4,7 @@
 <h1 align="center"> Olá! Sou Breno Pais, Desenvolvedor Web 👦🏻</h1>
 
 
-**Olá sou um estudante universitário de Gestão de TI, utilizo tecnologias como GIT, HTML, CSS, JavaScript, SQL Server, C# e Bootstrap. Meu objetivo é me tornar um profissional amplamente qualificado, buscando constantemente evoluir para me tornar um desenvolvedor Full Stack. No momento, estou em busca do meu primeiro emprego na área de desenvolvimento.**
+**Sou um estudante universitário de Gestão de TI, utilizo tecnologias como GIT, HTML, CSS, JavaScript, SQL Server, C# e Bootstrap. Meu objetivo é me tornar um profissional amplamente qualificado, buscando constantemente evoluir para me tornar um desenvolvedor Full Stack. No momento, estou em busca do meu primeiro emprego na área de desenvolvimento.**
 
 <br>
 
