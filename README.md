@@ -4,7 +4,7 @@
 <h1 align="center"> Olá! Sou Breno Pais, Desenvolvedor Web 👦🏻</h1>
 
 
-**Como estudante universitário de Gestão da Tecnologia da Informação, atualmente no último período da faculdade, meu objetivo é me tornar um profissional qualificado, sempre buscando a constante evolução em busca do meu primeiro emprego na área como desenvolvedor.**
+**Como estudante universitário de Gestão de TI, atualmente no último período da faculdade, meu objetivo é me tornar um profissional amplamente qualificado, sempre buscando a constante evolução para um dia me tornar um desenvolvedor Full Stack. No momento, estou em busca do meu primeiro emprego na área de desenvolvimento.**
 
 <br>
 
