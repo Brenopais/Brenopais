@@ -5,7 +5,7 @@
 <h1 align="center"> Olá! Sou Breno Pais, Desenvolvedor Web 👦🏻</h1>
 
 
-**Sou formado em Gestão de TI, tenho 27 anos e sou apaixonado por tecnologia. <br>Meu objetivo é me tornar um profissional qualificado e estou constantemente em busca de evolução para me tornar um desenvolvedor Full Stack. <br> Atualmente, estou em busca do meu primeiro emprego na área de desenvolvimento.**
+**Sou formado em Gestão de TI, tenho 27 anos e sou apaixonado por tecnologia. Meu objetivo é me tornar um profissional qualificado e estou constantemente em busca de evolução para me tornar um desenvolvedor Full Stack. Atualmente, em busca do meu primeiro emprego na área de desenvolvimento.**
 
 <br>
 
